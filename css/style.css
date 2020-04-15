@@ -48,7 +48,7 @@ header{
 
     .result{
         font-size: 48px;
-        color: blue;
+        color: rgb(253, 253, 253);
         margin-bottom: 50px;
 
     }
@@ -67,4 +67,9 @@ header{
     }
     button:hover, button:hover h1{
         background-color: antiquewhite;
+       }
+
+       button a{
+           text-decoration: none;
+           color: black;
        }
