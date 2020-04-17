@@ -1,15 +1,15 @@
 var pedra = {
     nome: "pedra",
-    img: "pedra.png"
+    img: "images/pedra.png"
 }
 
 var tesoura = {
     nome: "tesoura",
-    img: "tesoura.png"
+    img: "images/tesoura.png"
 }
 var papel = {
     nome: "papel",
-    img: "papel.png"
+    img: "images/papel.png"
 }
 
 var ppt = [pedra, papel, tesoura]
